@@ -4,6 +4,7 @@ THIS TOOL IS NO LONGER SUPPORTED.
 VMMM v2 has been released, and an online version is available for self assessment.  This can be found at www.zenzizensec.com
 
 -------------8< -----------
+
 A self assessment tool to help understand your level in the Vulnerability Management Maturity Model (VMMM).
 
 Version 2 was uploaded on 2025-03-01
